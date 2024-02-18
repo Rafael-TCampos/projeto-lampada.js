@@ -1,0 +1,16 @@
+header , main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  width: 300px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+}
